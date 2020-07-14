@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "koto-finance-manager",
+  "private_key_id": "2fa4fc9c304dbe245c7cae4a84d94044a328111b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqiCam1ggeNnX9\nrDu6FNgeITl1IMLgzimHMo1lWGR/FCIVjTKOZvZeY51dO/0PVfpfUND765xsbf9q\n4JGoji/rXbcYJUbXiIsnacAlrBNVazQ1KVPiAEFxMdLYYAlAIwuEl6TUL2HfwS7b\nQIg+lfD4PXDDJs1glpA5SkHzKTtCFE7EuV+Lg4B7y+oofLG4U5M+lVSbVyg78KJ0\n+ZtnCDiYpqAm9L+RCk+k5IZ+LthSCIjZ5Ue7HSRlSf7n0gBVnfPwKVz9OYob4cz+\n8Qfgd/0dUS6lN9L1+AprNs6FGRzglcWhkO9N5Z3UqIaowJMfx7MW9V/Rq2aU8WDe\npOiruohfAgMBAAECggEAUnqmgyPa6k359HbkrmQdgTkdkq6FQvjDsi27oKxHcwU4\nVQclUCWxfEae2nTEuTGi9o3efjHfRrxPAJDcMlOPDr4Va9q/sEhM0YO+2RmogjRn\nHF1AQntQK6Dm8xtD7h7lF7zGjo/aPUAw2v+Txf18fnws+V5fkBtSZzsouaSUEil3\nWu4lTFAwgFunpT3dGjuQRrfyxQym7XuX97tbzLhDBwIWS5KwA22g9nzYyqPuNf82\nloMomx+6czuvi2m0mcO9pMdyog/234TWwlQ6JfpaW7ECm1KdFJOIO9cY2KoJBxFF\n8Gve1cS0LDd/HFuIQLiZ5iTyIEIawMrSN0N3m1//zQKBgQDvCdW2wylctqUbWiSK\nAfzTOq+MwTeDX0UKJUffBSaEgl2Oki9XqemHmzzdfsPwDPMLzxwDVt/+H1MCSH3N\n7Ka7ldTEe9y5zqP4zOv/6jKqW54dyf7MBtwaHkoOE9FVP1j+ikjjX0x5v5CjgMK1\nPDfo8xJpiWPXzJYv5qYQ2jJn8wKBgQC2oeKJ9J5g1ssJSaZgNJ2AuP/wp11Jcdo0\nNufEMQkQygos+56XGqdsTTT/fMfpY5bDBZhcITPWPbWs2POcnT27PfQWj5SGW96/\ncy8LYGsPssiVNn3lFquS8WevMHbxsdT10roWKuyWE5414ieC9I0sAeLrYr1kPL5s\n39Vng51E5QKBgGGhI698sFUUqASu4YOYYjmnm3GirNi0PY9yQJN/GAdA85M6c6mb\nVS00ozxX/RD7SP1GvstCXUP+aTnif7duc37kKD2D1VfyZRhGIhGpBr57ou3JxY5x\nMs5cFqT/RR1LPT7hHfn3v1Vuf1W4Tk4VZUR4msmN+sB159Vyn9r8M2AvAoGAV+o9\n3yL+SqebPXFSweUSHLDxo6stYPmJjLERiIQCVS6tD1Jg2WRfS+cup/4tTdA+9spu\nuYrSJUO3fOlC/BVFbik4otOjL7px079i2hsj7n6lyA5fNDRhi27h9pdh6p8sYNl7\n8sfe86+l7VJcqtGGU7Tkw2LYwLPtBwQI+reEsXECgYEAqV5jUZKUO6EOAoJAAo95\n8KTElGZr8txwgK8m0PuMZO9idyFPC4nDnwhjTV6gOO7aDduWRaNelhMRSDfSaDcD\ntHIYQwGeWld1FQ13YnUDPqH2e4/lAmMYzlxe1WmcEpBge2T6JU4yDZ3cetlOlP/r\nXGIxxxS9RdFrrtwrV18mhIA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "koto-111@koto-finance-manager.iam.gserviceaccount.com",
+  "client_id": "101807059759605203629",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/koto-111%40koto-finance-manager.iam.gserviceaccount.com"
+}
